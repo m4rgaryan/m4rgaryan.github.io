@@ -15,9 +15,6 @@ order: 4
 **Currently grinding**  
 • PortSwigger Web Security Academy  
 • TryHackMe Jr Penetration Tester path (1-month Premium)  
-• Future: eJPT → OSCP + bug bounties
-
-**Goal**: Become a competent junior pentester / red teamer by graduation and land remote EU/US B2B contracts from Armenia.
 
 ## Skills
 - Web app exploitation (SQLi, XSS, auth, API testing)  
