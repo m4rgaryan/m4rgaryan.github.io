@@ -16,7 +16,7 @@ timezone:
 
 title: Vladimir Margaryan # the main title
 
-tagline: Offensive Security | Python Backend | Pentesting Enthusiast # it will display as the subtitle
+tagline: Offensive Security | Pentesting | Systems & Networks  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   CS student learning offensive security. Grinding PortSwigger, TryHackMe, and bug bounties. 
