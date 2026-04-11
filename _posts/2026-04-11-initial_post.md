@@ -1,8 +1,7 @@
 ---
 title: Initial Post
 description: A short introduction to this portfolio, what I am learning, and what I am building.
-date: 2026-04-11 21:21 +0400
-comments: false
+date: 2026-04-11 21:21:00 +0400
 ---
 
 ## Cybersecurity Portfolio
