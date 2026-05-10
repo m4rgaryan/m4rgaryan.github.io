@@ -4,6 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I’m Vladimir, a Computer Science student at Yerevan State University with a background in software development and backend engineering. For the last few years, I’ve worked on building and maintaining infrastructure, ranging from developing RESTful APIs with FastAPI to managing CI/CD pipelines and system monitoring. 
+I'm Vladimir, a CS student at Yerevan State University with three years of backend development experience in Python and FastAPI.
 
-While I’ve spent a lot of time building and stabilizing environments, my current goal is to pivot into offensive security. I am focusing on using my knowledge of networking, Linux, and backend internals to identify vulnerabilities and understand how systems can be compromised. I enjoy the technical challenge of dissecting complex architectures to find security gaps.
+I'm currently transitioning into offensive security. The shift has been building for a while, I've always been drawn to systems thinking and to understanding how things work under the hood, more than to writing application code on top of them.
+
+Right now I'm working through the foundations: networking, Linux, penetration testing methodology, and the systems that real-world infrastructure is built on.
+
+The content you will see here is hands-on lab work, machine writeups, and notes on what I'm learning along the way.
